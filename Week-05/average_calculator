@@ -1,0 +1,11 @@
+values_sum = 0
+num_values = 0
+
+curr_value = int(input())
+
+while curr_value > 0:
+    values_sum += curr_value
+    num_values += 1
+    curr_value = int(input())
+
+print(values_sum / num_values)
