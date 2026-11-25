@@ -5,26 +5,44 @@ This repository contains coursework, assignments, exercises, and challenge activ
 ## Topics Covered
 
 - Python Basics
-- Variables and Data Types
+- Variables and Expressions
+- Strings and Data Structures
 - Conditional Statements
-- Loops
+- Loops and Iteration
 - Functions
-- Strings
-- Lists
-- Dictionaries
+- String Processing
+- Lists and Dictionaries
+- Exception Handling
+- Modules and Libraries
 - File Handling
-- Modules
 
 ## Repository Structure
 
-- Week-01
-- Week-02
-- Week-03
-- Week-04
-- Week-05
-- Week-06
-- Week-07
-- Week-08
+- Week-01 - Introduction
+- Week-02 - Variables and Expressions
+- Week-03 - Data Structures and Strings
+- Week-04 - Conditional Statements
+- Week-05 - Loops and Iteration
+- Week-06 - Functions
+- Week-07 - String Processing
+- Week-08 - Lists and Dictionaries
+- Week-09 - Exception Handling
+- Week-10 - Modules and Libraries
+- Week-11 - File Handling
+
+## Learning Outcomes
+
+Through these exercises and assignments, I practiced:
+
+- Problem Solving
+- Python Programming Fundamentals
+- Data Structures
+- Input and Output Processing
+- File Handling
+- Exception Handling
+- Modular Programming
+- Code Organization
+- Debugging Techniques
 
 ## Author
 
